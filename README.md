@@ -1,2 +1,2 @@
 # SwiftLearningAndProjects
-Studies and projects from /dr. Angel Yu Udemy's course 
+Studies and projects from Dr. Angel Yu Udemy's course 
